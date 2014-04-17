@@ -1,4 +1,4 @@
 MCCompact
 =========
 
-MCCompact Repository
+MCCompact Minecraft mod.
